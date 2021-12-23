@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-# Workbench# workbench
+# Workbench
 
 echo "# workbench" >> README.md
 git init
