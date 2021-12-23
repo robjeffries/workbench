@@ -1,0 +1,5 @@
+USER        ='xxxxxxxxxxxxxxxxxxxx'
+PASSWORD    ='xxxxxxxxxxxxxxxxxxxx'
+HOST        ='xxxxxxxxxxxxxxxxxxxx'
+API         ='xxxxxxxxxxxxxxxxxxxx'
+AUTH_SOURCE ='xxxxxxxxxxxxxxxxxxxx'
