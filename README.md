@@ -1,2 +1,2 @@
 # Workbench
-A log analytics project using Django, MongoDB, and Django REST Framework
+A modular workspace for data engineering and analysis using Django, MongoDB, and Django REST Framework
